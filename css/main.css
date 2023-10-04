@@ -45,6 +45,9 @@ body {
 }
 #navbar ul li a:hover {
     color: orange;
+    border-bottom: 2px solid orange;
+    padding-bottom: 5px;
+    transition: 0.3s;
 }
 /* Home */
 #home {
