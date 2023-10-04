@@ -1,0 +1,11 @@
+#references .items .item img {
+    height: 250px;
+    width: 250px;
+}
+.photos .photo img {
+    height: 300px;
+    width: 200px;
+    object-fit: cover;
+    border-radius: 200px;
+    padding: 1rem;
+}
